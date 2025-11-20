@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+header_pages:
+  - repair.md
+  - shopping.md
