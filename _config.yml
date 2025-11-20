@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+header_pages:
+  - 维修.md
+  - 团购.md
