@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 首页
-permalink: /home/
+permalink: /
 ---
 
 ## 纽约长岛实用联系方式（筛选版本）
