@@ -8,6 +8,4 @@ menu:
   - title: 首页
     url: /readme.md
   - title: 维修
-    url: /repair/
-  - title: 团购
-    url: /shopping/
+    url: /repair.md
