@@ -1,3 +1,9 @@
+---
+layout: default
+title: 首页
+permalink: / 
+---
+
 纽约长岛实用联系方式
 
 ## 服务类型 -- 各种都可以
