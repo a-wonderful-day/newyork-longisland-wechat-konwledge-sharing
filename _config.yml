@@ -1,9 +1,9 @@
-# theme: jekyll-theme-cayman
-theme: minima
+theme: jekyll-theme-cayman
+# theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-minima-theme
+# plugins:
+#   - jekyll-feed
+#   - jekyll-minima-theme
 
 header_pages:
   - home.md
