@@ -20,16 +20,29 @@ permalink: /repair/
 | 空调烘干漏水除霉 | 蓝箭环境工程 | 中文 | 917-915-6118  | bruce蓝箭环境工程 | note |
 | 空调维修 | chris hvac | ? | 516-348-5030 | chris hvac 5163485030 | note |
 | 热水器修理 | 林 | 中文 | 917-582-8880 | WeChat | note |
-| fence | ?师傅 | 英文 | 631-520-8066  | WeChat | note |
+| fence | name | 英文 | 631-520-8066  | WeChat | note |
 | 割草 | leo | 英文 | 516-849-8937  | WeChat | note |
+| 砍树 | alex | 英文 | 516-680-3291 | WeChat | note |
 | 验房 | cathy | 中文 | 516-348-4431  | cathy | 维修群群主 |
 | handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat | 装全屋净水 |
 | plumper | nick | 英文 | 631-352-9693 | WeChat | note |
 | 搬家公司 | 鸿运搬家 李师傅 | 中文 | 646-588-8808 | hymovingny | note |
 | 搬家公司 | 快乐搬家 刘师傅 | 中文 | 917-836-1616 | tao19731212 | note |
+| 搬家公司 | 世纪搬家 | 中文 | 347-399-4706 | wechat | note |
+| 搬家公司 | 阳光搬家 | 中文 | 646-598-6666 | 646-598-6666 | note |
 | 保洁 | 路得家政保洁 | 中文 | 123-123-1234 | lululovejesus | 细节没有特别干净 |
 | 保洁 | 明明 长岛 | 中文 | 123-123-1234 | mmwwhh95 | note |
 | 保洁 | nube | 英文 | 347-666-5320 | WeChat | lic |
+| 杀虫 | Daniel gou | 中文 |718-353-7800 / 718-229-3868 | WeChat | note |
+| 烟囱 | name | language | 516-410-7355 | WeChat | note |
+| sidewalk | ah construction | 英文 | 516-543-1515 | WeChat | concrete blacktop masonry |
+| backfill | kevin | language | 516-505-9590 | WeChat | 便宜 |
+| backfill sprinkler | 博乐 | 中文 | 516-857-7888 | brian626dj | brian626dj@gmail.com |
+| 房顶 | nassau roofer | language | 516-785-7663 | WeChat | note |
+| 房顶 | alexander home improvement corporation | 英文 | 516-505-0574 | WeChat | note |
+| 废旧家具 | name | language | 123-123-1234 | WeChat | 1600 merrick road, merrick, ny 11566 |
+| 买土 | mac arthur compost facility | language | 631-467-3343 | WeChat | 1101 railroad ave, ronkonkoma, ny 11779  $5一车|
+| 买土 | name | language | 123-123-1234 | WeChat | 127 bethpage sweet hollow rd, old bethpage, ny 11804 free |
 | service | name | language | 123-123-1234 | WeChat | note |
 
 
