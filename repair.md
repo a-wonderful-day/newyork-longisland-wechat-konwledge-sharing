@@ -13,15 +13,16 @@ permalink: /repair/
 | handyman | jack | 中文 | 917-688-7797 | phone | 智能开关，radiator清理，充电桩 |
 | handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat| note |
 | 装修 | 董师傅 | 中文 | phone | 董飞 商业住宅冷暖水电一站式服务 | permit |
-| 装修 | 冬师傅 | 中文 | phone | WeChat | note |
+| 装修 | 冬师傅 | 中文 | 929-758-8882 | we-chat-do | note |
 | 装修 | 高山 | 中文 | phone | liyage906756 | note |
+| 装修 | summer 大富装修 | 中文 | phone | hellosummer999 | note |
 | 电工 | henry | 英文 | 917-642-3911 | WeChat | permit |
 | 电工 | 阿丰 | 中文 | 347-885-7788 | WeChat | note |
 | 电工 | chris | language | 631-902-0494 | WeChat | license |
 | 空调烘干漏水除霉 | 蓝箭环境工程 | 中文 | 917-915-6118  | bruce蓝箭环境工程 | note |
 | 空调维修 | chris hvac | ? | 516-348-5030 | chris hvac 5163485030 | note |
 | 维修家电 | 陈先生 | 中文 | 917-528-8802 | WeChat | note |
-| 热水器修理 | 林 | 中文 | 917-582-8880 | WeChat | note |
+| 热水器锅炉 | 林师傅 | 中文 | 917-582-8880 | WeChat | note |
 | fence | name | 英文 | 631-520-8066  | WeChat | note |
 | 园艺 | leo | 英文 | 516-849-8937  | WeChat | note |
 | 园艺 | shantel kimoll campbell | 英文 | 516-304-2282 / 516-943-5134 | WeChat | note |
@@ -49,7 +50,7 @@ permalink: /repair/
 | 房顶 | nassau roofer | language | 516-785-7663 | WeChat | note |
 | 房顶 | alexander home improvement corporation | 英文 | 516-505-0574 | WeChat | note |
 | 房顶 | alkis | 英文 | 646-302-5175 | WeChat | great neck |
-| 房顶 | hariram | 英文 | 347-569-1787 | WeChat | note |
+| 房顶 | hariram | 英文 | 347-569-1787 | WeChat | call out fee $150 |
 | 房顶 | 邓师傅 | 中文 | 718-813-1562 | WeChat | note |
 | 废旧家具 | name | language | 123-123-1234 | WeChat | 1600 merrick road, merrick, ny 11566 |
 | 垃圾处理 | north hempstead residential drop off | language | 123-123-1234 | WeChat | 999 w shore rd, port washington, ny 11050 |
