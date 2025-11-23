@@ -6,4 +6,5 @@ plugins:
   - jekyll-minima-theme
 
 header_pages:
+  - home.md
   - repair.md
