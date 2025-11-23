@@ -1,11 +1,5 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
 
 header_pages:
   - repair.md
-  - shopping.md
-
-menu:
-  - title: 首页
-    url: /readme.md
-  - title: 维修
-    url: /repair.md
