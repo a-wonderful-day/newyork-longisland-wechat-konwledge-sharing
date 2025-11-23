@@ -11,7 +11,7 @@ permalink: /repair/
 | 冷暖空调 | 宋师傅 | 中文 | 929-919-1202  | ab5555555ba | handyman |
 | 油漆 | 室内外油漆，装修 syosset@41 | 中文 | phone | tiger-231084 | note |
 | handyman | jack | 中文 | 917-688-7797 | wechat | 智能开关，radiator清理，充电桩 |
-| handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat| note |
+| handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat | 装全屋净水 |
 | 装修 | 董师傅 | 中文 | phone | 董飞 商业住宅冷暖水电一站式服务 | permit |
 | 装修 | 冬师傅 | 中文 | 929-758-8882 | we-chat-do | note |
 | 装修 | 高山 | 中文 | phone | liyage906756 | note |
@@ -29,7 +29,6 @@ permalink: /repair/
 | 砍树 | k&a tree service | 英文 | 516-507-0340 | WeChat | note |
 | 砍树 | alex | 英文 | 516-680-3291 | WeChat | note |
 | 验房 | cathy | 中文 | 516-348-4431  | a5163484431 | 维修群群主 |
-| handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat | 装全屋净水 |
 | 水管 plumber | 金师傅 | 中文 | 718-483-1555 | WeChat | note |
 | 水管 plumper | nick bergamini | 英文 | 631-352-9693 | WeChat | havensplumbingandheating@gmail.com |
 | 搬家公司 | 鸿运搬家 李师傅 | 中文 | 646-588-8808 | hymovingny | note |
@@ -42,6 +41,7 @@ permalink: /repair/
 | 保洁 | 明明 长岛 | 中文 | 123-123-1234 | mmwwhh95 | note |
 | 保洁 | nube | 英文 | 347-666-5320 | WeChat | lic |
 | 杀虫 | Daniel gou | 中文 |718-353-7800 / 718-229-3868 | WeChat | note |
+| 杀虫 | name | 英文 | 631-935-0450 | WeChat | note |
 | 烟囱 | name | language | 516-410-7355 | WeChat | note |
 | sidewalk | ah construction | 英文 | 516-543-1515 | WeChat | concrete blacktop masonry |
 | driveway | antonio | language | 631-639-1056 | WeChat | note |
@@ -49,7 +49,7 @@ permalink: /repair/
 | backfill sprinkler | 博乐 | 中文 | 516-857-7888 | brian626dj | brian626dj@gmail.com |
 | 房顶 | nassau roofer | language | 516-785-7663 | WeChat | note |
 | 房顶 | alexander home improvement corporation | 英文 | 516-505-0574 | WeChat | note |
-| 房顶 | alkis | 英文 | 646-302-5175 | WeChat | great neck |
+| 房顶 | alkis | 英文 | 646-302-5175 | WeChat | great neck/ ak gatsios |
 | 房顶 | hariram | 英文 | 347-569-1787 | WeChat | call out fee $150 |
 | 房顶 | 邓师傅 | 中文 | 718-813-1562 | WeChat | note |
 | 废旧家具 | name | language | 123-123-1234 | WeChat | 1600 merrick road, merrick, ny 11566 |
@@ -57,9 +57,9 @@ permalink: /repair/
 | 买土 | mac arthur compost facility | language | 631-467-3343 | WeChat | 1101 railroad ave, ronkonkoma, ny 11779  $5一车|
 | 买土 | name | language | 123-123-1234 | WeChat | 127 bethpage sweet hollow rd, old bethpage, ny 11804 free |
 | exterminating | raymond bosque | language | 631-714-1374 / 800-311-6655 | WeChat | www.selectexterminating.com |
+| 外墙门窗 | jonas | 英文 | 908-320-8023 | WeChat | victory |
 | 洗外墙 | same chen | 中文 | 929-310-3711 | WeChat | jianweichen@gmail.com |
 | cesspool sewe | battlin barry | language | 631-736-4499 | WeChat | 444 st james st, holbrook, ny 11741 |
-| 杀虫 | name | 英文 | 631-935-0450 | WeChat | note |
 | service | name | language | 123-123-1234 | WeChat | note |
 
 
