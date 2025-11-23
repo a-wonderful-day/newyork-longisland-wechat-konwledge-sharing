@@ -1,8 +1,4 @@
----
-layout: page
-title: 首页
-permalink: /
----
+
 
 ## 纽约长岛实用联系方式（筛选版本）
 
