@@ -8,20 +8,26 @@ permalink: /repair/
 
 | 服务类型 | 师傅姓名 | 语言 | 电话 | 微信 | 备注 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 冷暖空调 | 宋师傅 | 中文 | 9299191202  | WeChat | note |
+| 冷暖空调 | 宋师傅 | 中文 | 929-919-1202  | ab5555555ba | handyman |
 | 油漆 | 室内外油漆，装修 syosset@41 | 中文 | phone | xy | note |
-| handyman | jack | 中文 | 9176887797 | phone | 智能开关，radiator清理，充电桩 |
-| handyman | 刘师傅 | 中文 | 9296865822 | WeChat| note |
-| 装修 | 董师傅 | 中文 | add  | 董飞 商业住宅冷暖水电一站式服务 | permit |
-| 装修 | 冬师傅 | 中文 | add  | 冬 | note |
-| 电工 | henry | 英文 | 9176423911 | WeChat | permit |
-| 电工 | 阿丰 | 中文 | 3478857788 | WeChat | note |
-| 空调烘干漏水除霉 | 蓝箭环境工程 | 中文 | 9179156118  | bruce蓝箭环境工程 | note |
-| 空调维修 | chris hvac | ? | 5163485030 | chris hvac 5163485030 | note |
-| 热水器修理 | 林 | 中文 | 9175828880 | WeChat | note |
-| fence | ?师傅 | 英文 | 6315208066  | WeChat | note |
-| 割草 | leo | 英文 | 5168498937  | WeChat | note |
-| 验房 | cathy | 中文 | 5163484431  | cathy | 维修群群主 |
+| handyman | jack | 中文 | 917-688-7797 | phone | 智能开关，radiator清理，充电桩 |
+| handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat| note |
+| 装修 | 董师傅 | 中文 | phone | 董飞 商业住宅冷暖水电一站式服务 | permit |
+| 装修 | 冬师傅 | 中文 | phone | 冬 | note |
+| 装修 | 高山 | 中文 | phone | liyage906756 | note |
+| 电工 | henry | 英文 | 917-642-3911 | WeChat | permit |
+| 电工 | 阿丰 | 中文 | 347-885-7788 | WeChat | note |
+| 空调烘干漏水除霉 | 蓝箭环境工程 | 中文 | 917-915-6118  | bruce蓝箭环境工程 | note |
+| 空调维修 | chris hvac | ? | 516-348-5030 | chris hvac 5163485030 | note |
+| 热水器修理 | 林 | 中文 | 917-582-8880 | WeChat | note |
+| fence | ?师傅 | 英文 | 631-520-8066  | WeChat | note |
+| 割草 | leo | 英文 | 516-849-8937  | WeChat | note |
+| 验房 | cathy | 中文 | 516-348-4431  | cathy | 维修群群主 |
+| handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat | 装全屋净水 |
+| plumper | nick | 英文 | 631-352-9693 | WeChat | note |
+| 搬家公司 | 鸿运搬家 李师傅 | 中文 | 646-588-8808 | hymovingny | note |
+| 搬家公司 | 快乐搬家 刘师傅 | 中文 | 917-836-1616 | tao19731212 | note |
+| service | name | language | 123-123-1234 | WeChat | note |
 
 
 -------------------
