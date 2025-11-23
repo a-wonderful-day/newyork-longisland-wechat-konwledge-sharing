@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: 维修师傅（无筛选版本！！）
+permalink: /repair/ 
+---
 
 ## 纽约长岛实用联系方式(无筛选版本！！)
 
