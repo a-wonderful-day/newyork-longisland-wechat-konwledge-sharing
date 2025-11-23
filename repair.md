@@ -58,6 +58,7 @@ permalink: /repair/
 | exterminating | raymond bosque | language | 631-714-1374 / 800-311-6655 | WeChat | www.selectexterminating.com |
 | 洗外墙 | same chen | 中文 | 929-310-3711 | WeChat | jianweichen@gmail.com |
 | cesspool sewe | battlin barry | language | 631-736-4499 | WeChat | 444 st james st, holbrook, ny 11741 |
+| 杀虫 | name | 英文 | 631-935-0450 | WeChat | note |
 | service | name | language | 123-123-1234 | WeChat | note |
 
 
