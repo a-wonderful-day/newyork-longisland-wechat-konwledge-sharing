@@ -27,6 +27,9 @@ permalink: /repair/
 | plumper | nick | 英文 | 631-352-9693 | WeChat | note |
 | 搬家公司 | 鸿运搬家 李师傅 | 中文 | 646-588-8808 | hymovingny | note |
 | 搬家公司 | 快乐搬家 刘师傅 | 中文 | 917-836-1616 | tao19731212 | note |
+| 保洁 | 路得家政保洁 | 中文 | 123-123-1234 | lululovejesus | 细节没有特别干净 |
+| 保洁 | 明明 长岛 | 中文 | 123-123-1234 | mmwwhh95 | note |
+| 保洁 | nube | 英文 | 347-666-5320 | WeChat | lic |
 | service | name | language | 123-123-1234 | WeChat | note |
 
 
