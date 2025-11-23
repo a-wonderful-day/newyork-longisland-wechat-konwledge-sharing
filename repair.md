@@ -9,8 +9,8 @@ permalink: /repair/
 | 服务类型 | 师傅姓名 | 语言 | 电话 | 微信 | 备注 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 冷暖空调 | 宋师傅 | 中文 | 929-919-1202  | ab5555555ba | handyman |
-| 油漆 | 室内外油漆，装修 syosset@41 | 中文 | phone | xy | note |
-| handyman | jack | 中文 | 917-688-7797 | phone | 智能开关，radiator清理，充电桩 |
+| 油漆 | 室内外油漆，装修 syosset@41 | 中文 | phone | tiger-231084 | note |
+| handyman | jack | 中文 | 917-688-7797 | wechat | 智能开关，radiator清理，充电桩 |
 | handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat| note |
 | 装修 | 董师傅 | 中文 | phone | 董飞 商业住宅冷暖水电一站式服务 | permit |
 | 装修 | 冬师傅 | 中文 | 929-758-8882 | we-chat-do | note |
@@ -19,16 +19,16 @@ permalink: /repair/
 | 电工 | henry | 英文 | 917-642-3911 | WeChat | permit |
 | 电工 | 阿丰 | 中文 | 347-885-7788 | WeChat | note |
 | 电工 | chris | language | 631-902-0494 | WeChat | license |
-| 空调烘干漏水除霉 | 蓝箭环境工程 | 中文 | 917-915-6118  | bruce蓝箭环境工程 | note |
-| 空调维修 | chris hvac | ? | 516-348-5030 | chris hvac 5163485030 | note |
+| 空调烘干漏水除霉 | 蓝箭环境工程 | 中文 | 917-915-6118  | mold0911 | 紧急维修 |
+| 空调维修 | chris hvac | 中文 | 516-348-5030 | wechat | note |
 | 维修家电 | 陈先生 | 中文 | 917-528-8802 | WeChat | note |
 | 热水器锅炉 | 林师傅 | 中文 | 917-582-8880 | WeChat | note |
-| fence | name | 英文 | 631-520-8066  | WeChat | note |
+| fence | name | 英文 | 631-520-8066  | wechat | note |
 | 园艺 | leo | 英文 | 516-849-8937  | WeChat | note |
 | 园艺 | shantel kimoll campbell | 英文 | 516-304-2282 / 516-943-5134 | WeChat | note |
 | 砍树 | k&a tree service | 英文 | 516-507-0340 | WeChat | note |
 | 砍树 | alex | 英文 | 516-680-3291 | WeChat | note |
-| 验房 | cathy | 中文 | 516-348-4431  | cathy | 维修群群主 |
+| 验房 | cathy | 中文 | 516-348-4431  | a5163484431 | 维修群群主 |
 | handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat | 装全屋净水 |
 | 水管 plumber | 金师傅 | 中文 | 718-483-1555 | WeChat | note |
 | 水管 plumper | nick bergamini | 英文 | 631-352-9693 | WeChat | havensplumbingandheating@gmail.com |
