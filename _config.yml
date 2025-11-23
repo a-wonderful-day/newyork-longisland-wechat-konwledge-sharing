@@ -6,5 +6,5 @@ theme: jekyll-theme-cayman
 #   - jekyll-minima-theme
 
 header_pages:
-  - home.md
+  # - home.md
   - repair.md
