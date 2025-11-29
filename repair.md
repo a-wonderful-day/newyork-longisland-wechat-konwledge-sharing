@@ -58,6 +58,8 @@ permalink: /repair/
 | 买土 | name | language | 123-123-1234 | WeChat | 127 bethpage sweet hollow rd, old bethpage, ny 11804 free |
 | exterminating | raymond bosque | language | 631-714-1374 / 800-311-6655 | WeChat | www.selectexterminating.com |
 | 外墙门窗 | jonas | 英文 | 908-320-8023 | WeChat | victory |
+| 门窗 | michael sun | language | 917-536-7921 | WeChat | 561 acorn st unit M, deer park, NY 11729 / email: msun@okanausa.com |
+| 门窗 | wang | 中文 | 631-835-5885 | WeChat | note |
 | 洗外墙 | same chen | 中文 | 929-310-3711 | WeChat | jianweichen@gmail.com |
 | cesspool sewe | battlin barry | language | 631-736-4499 | WeChat | 444 st james st, holbrook, ny 11741 |
 | service | name | language | 123-123-1234 | WeChat | note |
