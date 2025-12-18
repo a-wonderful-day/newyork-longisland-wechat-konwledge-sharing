@@ -26,7 +26,7 @@ permalink: /repair/
 | 装修 | 冬师傅 | 中文 | 929-758-8882 | we-chat-do | note |
 | 装修 | 高山 | 中文 | phone | liyage906756 | note |
 | 装修 | summer 大富装修 | 中文 | phone | hellosummer999 | note |
-| 装修 | 齐师傅 | 中文 | 516-644-3355 | A5166443355 |熟悉Permit流程及充电桩，净水器安装| 
+| 装修 | 长岛装修翻新 | 中文 | 516-644-3355 | A5166443355 |熟悉Permit流程及充电桩，净水器安装| 
 | 电工 | henry | 英文 | 917-642-3911 | WeChat | permit |
 | 电工 | 阿丰 | 中文 | 347-885-7788 | WeChat | note |
 | 电工 | chris | language | 631-902-0494 | WeChat | license |
@@ -67,9 +67,11 @@ permalink: /repair/
 | Sprinklers & Backflows | Julien | language | 516-513-0990 | WeChat | office@h2osab.com / www.H2OSAB.com |
 | 房顶 | nassau roofer | language | 516-785-7663 | WeChat | note |
 | 房顶 | alexander home improvement corporation | 英文 | 516-505-0574 | WeChat | note |
-| 房顶 | Alkis | 英文 | 646-302-5175 | WeChat | great neck/ ak gatsios |
-| 房顶 | Hariram | 英文 | 347-569-1787 | WeChat | call out fee $150 |
-| 房顶 | 邓师傅 | 中文 | 718-813-1562 | WeChat | 积极主动，收费合理 |
+| 新房顶 | citiwide | 英文 | 5167263212 | WeChat | lifetime warranty/  |
+| 新房顶 | Tim | 英文 | 6319770077 | WeChat | best choise  |
+| 新房顶 | atlantic | 英文 | 6312704349 | WeChat | Robert  |
+| 新房顶 | Hariram | 英文 | 347-569-1787 | WeChat | call out fee $150 |
+| 修房顶 | 邓师傅 | 中文 | 718-813-1562 | WeChat | 积极主动，收费合理 |
 | 烟囱 | name | language | 516-410-7355 | WeChat | note |
 | 清理烟囱 |Mike| 英文 | 508-736-2632 | no |2个墨西哥人，140元清理收费|
 | 废旧家具 | name | language | 123-123-1234 | WeChat | 1600 merrick road, merrick, ny 11566 |
