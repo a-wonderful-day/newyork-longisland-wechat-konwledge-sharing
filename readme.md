@@ -32,7 +32,6 @@
 | 新房顶 | citiwide | 英文 | 516-726-3212 | WeChat | lifetime warranty/  |
 | 新房顶 | Tim | 英文 | 631-977-0077 | WeChat | best choise  |
 | 新房顶 | atlantic | 英文 | 631-270-4349 | WeChat | Robert  |
-
 | 清理烟囱 |Mike| 英文 | 508-736-2632 | no |2个墨西哥人，140元清理收费|
 
 -------------------
