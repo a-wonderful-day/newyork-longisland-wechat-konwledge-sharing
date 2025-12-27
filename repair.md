@@ -26,7 +26,7 @@ permalink: /repair/
 | 装修 | 冬师傅 | 中文 | 929-758-8882 | we-chat-do | note |
 | 装修 | 高山 | 中文 | phone | liyage906756 | note |
 | 装修 | summer 大富装修 | 中文 | phone | hellosummer999 | note |
-| 装修 | 长岛装修翻新 | 中文 | 516-644-3355 | A5166443355 |熟悉Permit流程及充电桩，净水器安装| 
+| 装修 | 长岛装修翻新 | 中文 | 516-644-3355 | Q5166443355 |熟悉Permit流程及充电桩，净水器安装| 
 | 电工 | henry | 英文 | 917-642-3911 | WeChat | permit |
 | 电工 | 阿丰 | 中文 | 347-885-7788 | WeChat | note |
 | 电工 | chris | language | 631-902-0494 | WeChat | license |
