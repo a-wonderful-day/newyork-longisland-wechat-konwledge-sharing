@@ -34,14 +34,17 @@ permalink: /repair/
 | 电工 | 阿丰 | 中文 | 347-885-7788 | WeChat | note |
 | 电工 | chris | 英文 | 631-902-0494 | WeChat | license |
 | 电工（有执照） | Jake | 中文 | 群内@Jake 43出口 | WeChat | 可换外墙电盒等需license项目 |
-| 空调烘干漏水除霉 | 蓝箭环境工程 | 中文 | 917-915-6118 | mold0911 | 紧急维修 |
+| 空调烘干漏水除霉 | 蓝箭环境工程 Bruce Wang | 中文 | 917-915-6118 / 855-662-6753 | BArestoration | 水灾/火灾/霉菌/异味，EPA认证，WRT/DCA/CERT持证，接受保险理赔，BlueArrowNY@gmail.com / www.BlueArrowUSA.com |
 | 空调维修 | chris hvac | 中文 | 516-348-5030 | wechat | note |
 | 冷暖空调 | 宋师傅 | 中文 | 929-919-1202 | ab5555555ba | handyman、热水炉更换、供热系统改造、冰箱维修、烘干机管道除尘 |
 | 冷暖空调保养 | 杨师傅 | 中文 | 917-803-9272 | Tesla_Elon | 中央空调/分体空调内外机清洗（优惠价$200/年）、锅炉内部清洗、烘干机管道除尘、温控器升级更换、热水泵更换、壁炉烟囱除尘 |
-| 热水器锅炉 | 林师傅 | 中文 | 917-582-8880 | WeChat | note |
+| 车库门维修/安装 | 明哥 | 中文 | 646-852-1120 | WeChat | 修理电动车库门、安装车库门、换热水炉 |
+| 建造师/结构工程 | Tom (建造师) | 中文 | 516-735-4140 | WeChat | 结构工程咨询 |
 | 维修家电 | 陈先生 | 中文 | 917-528-8802 | WeChat | note |
 | fence | name | 英文 | 631-520-8066 | wechat | 便宜 |
 | 割草 | leo | 英文 | 516-849-8937 | wechat | 性价比好 |
+| 割草 | Carlos 割草 | 英文 | 516-643-4214 | 无 | 群友推荐 |
+| 院子清洁 | Carlos Yard Cleaning | 英文 | 516-902-9444 | 无 | 院子清洁整理 |
 | 园艺 / landscape | shantel kimoll campbell | 英文 | 516-304-2282 / 516-943-5134 | WeChat | note |
 | 园艺 / landscape | Chris | 英文 | 516-840-1290 | WeChat | 有执照，可做花坛、喷泉 |
 | 砍树 | k&a tree service | 英文 | 516-507-0340 | WeChat | note |
@@ -82,6 +85,7 @@ permalink: /repair/
 | Sprinklers & Backflows | Julien | 英文 | 516-513-0990 | WeChat | office@h2osab.com / www.H2OSAB.com |
 | 房顶 | nassau roofer | 英文 | 516-785-7663 | WeChat | note |
 | 房顶 | alexander home improvement corporation | 英文 | 516-505-0574 | WeChat | note |
+| 新房顶 | Alkis (ROOF GREAT NECK) | 英文 | 646-302-5175 | WeChat | Great Neck 附近 |
 | 新房顶 | citiwide | 英文 | 516-726-3212 | WeChat | lifetime warranty |
 | 新房顶 | Tim | 英文 | 631-977-0077 | WeChat | best choice |
 | 新房顶 | atlantic | 英文 | 631-270-4349 | WeChat | Robert |
