@@ -22,7 +22,7 @@ permalink: /repair/
 | 验房 | cathy | 中文 | 516-348-4431 | a5163484431 | 维修群群主 |
 | 油漆 | 于师傅 | 中文 | 626-206-2886 | tiger-231084 | 室内外油漆、装修、家电搬运安装（可从Queens运至长岛） |
 | 地板 | 王师傅 | 中文 | 917-861-8272 | JayJayDIs-F | note |
-| handyman | jack | 中文 | 917-688-7797 | wechat | 智能开关、radiator清理、充电桩、净水系统安装（Water Drop）、全屋净水、Navien热水器维修 |
+| handyman | jack | 中文 | 917-688-7797 | wechat | 智能开关、radiator清理、充电桩、净水系统安装（Water Drop）、全屋净水、Navien热水器维修、马桶安装、车库门维修、water boiler维修，多位群友强烈好评 |
 | handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat | 装全屋净水 |
 | 装修 | 倪师傅 | 中文 | 212-960-3524 | WeChat | 厨房、卫生间、篱笆、亭子、外墙，群友好评，价格合理 |
 | 装修 | 董师傅 | 中文 | phone | 董飞 商业住宅冷暖水电一站式服务 | permit |
@@ -65,14 +65,18 @@ permalink: /repair/
 | 清洁公司 | Doris | 英文 | 516-710-0962 | 无 | 三人团队，干净 |
 | 清洁公司 | cintia | 英文 | 516-782-8407 | 无 | 小团队，干净 |
 | 清洁公司 | Rosa Cruz | 英文 | 516-725-7372 | 无 | 小团队，干净 |
+| 地板打磨 | 小王（地板打磨） | 中文 | 群内 @地板打磨 小王 | WeChat | 经群主验证，工艺规范，专业打磨+补缝+上漆三天流程 |
+| 监控安装 | 宋师傅同事 | 中文 | 929-919-1202（转介） | WeChat | 安装低压电线、监控摄像头系统 |
 | 杀虫 | Daniel gou | 中文 | 718-353-7800 / 718-229-3868 | WeChat | note |
 | 杀虫 | name | 英文 | 631-935-0450 | WeChat | note |
 | 杀虫 pest control | Aptive | 英文 | 电话官网查询 | 无 | 群友用过，两次之间发现虫可免费回来处理 |
 | 杀虫 pest control | Terminix | 英文 | 电话官网查询 | 无 | 群友用过，两次之间发现虫可免费回来处理 |
+| 杀虫 pest control | Know Out Pest Control | 英文 | 电话官网查询 | 无 | 群友用过，可驱马蜂、除鼠 |
 | 搬运（急单） | ALM公司 | 中文 | 631-897-6350 | WeChat | 可接急单搬货 |
 | sidewalk | ah construction | 英文 | 516-543-1515 | WeChat | concrete blacktop masonry |
 | driveway | antonio | 英文 | 631-639-1056 | WeChat | note |
-| Backflows | kevin | 英文 | 516-505-9590 | WeChat | 便宜 |
+| Gutter 清洗 | RJ's Gutter Cleaning (James) | 英文 | 516-771-4950 | 无 | 根据地址报价，吹风机+高压水枪，群友好评，约$125 |
+| 铲雪 | 铲雪服务（铲雪车） | 英文 | 917-201-9911 | 无 | 有铲雪车，3人团队，群友使用好评，按面积报价 |
 | Sprinklers & Backflows | 博乐 | 中文 | 516-857-7888 | brian626dj | brian626dj@gmail.com，NYS认证，有执照，可上报town |
 | Sprinklers & Backflows | Dual County Landscaping | 英文 | 516-375-1118 | 无 | 老外，价格公道，群友好评 |
 | Sprinklers & Backflows | Julien | 英文 | 516-513-0990 | WeChat | office@h2osab.com / www.H2OSAB.com |
