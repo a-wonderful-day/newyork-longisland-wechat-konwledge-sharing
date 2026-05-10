@@ -24,6 +24,7 @@ permalink: /repair/
 | 地板 | 王师傅 | 中文 | 917-861-8272 | JayJayDIs-F | note |
 | handyman | jack | 中文 | 917-688-7797 | wechat | 智能开关、radiator清理、充电桩、净水系统安装（Water Drop）、全屋净水、Navien热水器维修 |
 | handyman | 刘师傅 | 中文 | 929-686-5822 | WeChat | 装全屋净水 |
+| 装修 | 倪师傅 | 中文 | 212-960-3524 | WeChat | 厨房、卫生间、篱笆、亭子、外墙，群友好评，价格合理 |
 | 装修 | 董师傅 | 中文 | phone | 董飞 商业住宅冷暖水电一站式服务 | permit |
 | 装修 | 冬师傅 | 中文 | 929-758-8882 | we-chat-do | note |
 | 装修 | 高山 | 中文 | phone | liyage906756 | note |
@@ -35,7 +36,8 @@ permalink: /repair/
 | 电工（有执照） | Jake | 中文 | 群内@Jake 43出口 | WeChat | 可换外墙电盒等需license项目 |
 | 空调烘干漏水除霉 | 蓝箭环境工程 | 中文 | 917-915-6118 | mold0911 | 紧急维修 |
 | 空调维修 | chris hvac | 中文 | 516-348-5030 | wechat | note |
-| 冷暖空调 | 宋师傅 | 中文 | 929-919-1202 | ab5555555ba | handyman、热水炉更换、供热系统改造、冰箱维修 |
+| 冷暖空调 | 宋师傅 | 中文 | 929-919-1202 | ab5555555ba | handyman、热水炉更换、供热系统改造、冰箱维修、烘干机管道除尘 |
+| 冷暖空调保养 | 杨师傅 | 中文 | 917-803-9272 | Tesla_Elon | 中央空调/分体空调内外机清洗（优惠价$200/年）、锅炉内部清洗、烘干机管道除尘、温控器升级更换、热水泵更换、壁炉烟囱除尘 |
 | 热水器锅炉 | 林师傅 | 中文 | 917-582-8880 | WeChat | note |
 | 维修家电 | 陈先生 | 中文 | 917-528-8802 | WeChat | note |
 | fence | name | 英文 | 631-520-8066 | wechat | 便宜 |
@@ -65,10 +67,14 @@ permalink: /repair/
 | 清洁公司 | Rosa Cruz | 英文 | 516-725-7372 | 无 | 小团队，干净 |
 | 杀虫 | Daniel gou | 中文 | 718-353-7800 / 718-229-3868 | WeChat | note |
 | 杀虫 | name | 英文 | 631-935-0450 | WeChat | note |
+| 杀虫 pest control | Aptive | 英文 | 电话官网查询 | 无 | 群友用过，两次之间发现虫可免费回来处理 |
+| 杀虫 pest control | Terminix | 英文 | 电话官网查询 | 无 | 群友用过，两次之间发现虫可免费回来处理 |
+| 搬运（急单） | ALM公司 | 中文 | 631-897-6350 | WeChat | 可接急单搬货 |
 | sidewalk | ah construction | 英文 | 516-543-1515 | WeChat | concrete blacktop masonry |
 | driveway | antonio | 英文 | 631-639-1056 | WeChat | note |
 | Backflows | kevin | 英文 | 516-505-9590 | WeChat | 便宜 |
-| Sprinklers & Backflows | 博乐 | 中文 | 516-857-7888 | brian626dj | brian626dj@gmail.com |
+| Sprinklers & Backflows | 博乐 | 中文 | 516-857-7888 | brian626dj | brian626dj@gmail.com，NYS认证，有执照，可上报town |
+| Sprinklers & Backflows | Dual County Landscaping | 英文 | 516-375-1118 | 无 | 老外，价格公道，群友好评 |
 | Sprinklers & Backflows | Julien | 英文 | 516-513-0990 | WeChat | office@h2osab.com / www.H2OSAB.com |
 | 房顶 | nassau roofer | 英文 | 516-785-7663 | WeChat | note |
 | 房顶 | alexander home improvement corporation | 英文 | 516-505-0574 | WeChat | note |
@@ -93,6 +99,6 @@ permalink: /repair/
 
 信息来自于微信群 长岛邻居维修互助 1/2群
 
-持续更新中...... 2025/5/9
+持续更新中...... 2026/5/9
 
 ---
